@@ -1,0 +1,272 @@
+{
+    "origin_0.1":{
+      "metrics": {
+        "image_AUROC": 1.0,
+        "image_F1Score": 0.9920,
+        "pixel_AUROC": 0.9783,
+        "pixel_F1Score": 0.7120,
+        "parameter": "11.69M"
+      }
+    },
+    "origin_0.3":{
+      "metrics": {
+        "image_AUROC": 1.0,
+        "image_F1Score": 0.9920,
+        "pixel_AUROC": 0.9783,
+        "pixel_F1Score": 0.7120,
+        "parameter": "11.69M"
+      }
+    },
+    "origin_0.5":{
+      "metrics": {
+        "image_AUROC": 1.0,
+        "image_F1Score": 0.9920,
+        "pixel_AUROC": 0.9783,
+        "pixel_F1Score": 0.7120,
+        "parameter": "11.69M"
+      }
+    },
+    "origin_0.7":{
+      "metrics": {
+        "image_AUROC": 1.0,
+        "image_F1Score": 0.9920,
+        "pixel_AUROC": 0.9783,
+        "pixel_F1Score": 0.7120,
+        "parameter": "11.69M"
+      }
+    },
+    "origin_0.9":{
+      "metrics": {
+        "image_AUROC": 1.0,
+        "image_F1Score": 0.9920,
+        "pixel_AUROC": 0.9783,
+        "pixel_F1Score": 0.7120,
+        "parameter": "11.69M"
+      }
+    },
+    "magnitude_0.1": {
+      "metrics": {
+        "image_AUROC": 0.9823,
+        "image_F1Score": 0.9611,
+        "pixel_AUROC": 0.9704,
+        "pixel_F1Score": 0.6512,
+        "parameter": "9.48M"
+      }
+    },
+    "magnitude_0.3": {
+      "metrics": {
+        "image_AUROC": 0.9801,
+        "image_F1Score": 0.9602,
+        "pixel_AUROC": 0.9685,
+        "pixel_F1Score": 0.6497,
+        "parameter": "5.82M"
+      }
+    },
+    "magnitude_0.5": {
+      "metrics": {
+        "image_AUROC": 1.0,
+        "image_F1Score": 0.9920,
+        "pixel_AUROC": 0.9756,
+        "pixel_F1Score": 0.6934,
+        "parameter": "3.06M"
+      }
+    },
+    "magnitude_0.7": {
+      "metrics": {
+        "image_AUROC": 1.0,
+        "image_F1Score": 0.9920,
+        "pixel_AUROC": 0.9707,
+        "pixel_F1Score": 0.6689,
+        "parameter": "1.15M"
+      }
+    },
+    "magnitude_0.9": {
+      "metrics": {
+        "image_AUROC": 0.9992,
+        "image_F1Score": 0.9841,
+        "pixel_AUROC": 0.9734,
+        "pixel_F1Score": 0.6965,
+        "parameter": "0.16M"
+      }
+    },
+    "batch_norm_0.1": {
+      "metrics": {
+        "image_AUROC": 0.9831,
+        "image_F1Score": 0.9624,
+        "pixel_AUROC": 0.9715,
+        "pixel_F1Score": 0.6523,
+        "parameter": "9.48M"
+      }
+    },
+    "batch_norm_0.3": {
+      "metrics": {
+        "image_AUROC": 0.9812,
+        "image_F1Score": 0.9615,
+        "pixel_AUROC": 0.9698,
+        "pixel_F1Score": 0.6505,
+        "parameter": "5.82M"
+      }
+    },
+    "batch_norm_0.5": {
+      "metrics": {
+        "image_AUROC": 0.9783,
+        "image_F1Score": 0.9589,
+        "pixel_AUROC": 0.9654,
+        "pixel_F1Score": 0.6467,
+        "parameter": "3.06M"
+      }
+    },
+    "batch_norm_0.7": {
+      "metrics": {
+        "image_AUROC": 0.9712,
+        "image_F1Score": 0.9532,
+        "pixel_AUROC": 0.9565,
+        "pixel_F1Score": 0.6387,
+        "parameter": "1.15M"
+      }
+    },
+    "batch_norm_0.9": {
+      "metrics": {
+        "image_AUROC": 0.9524,
+        "image_F1Score": 0.9356,
+        "pixel_AUROC": 0.9324,
+        "pixel_F1Score": 0.6203,
+        "parameter": "0.16M"
+      }
+    },
+    "growing_reg_0.1": {
+      "metrics": {
+        "image_AUROC": 0.9846,
+        "image_F1Score": 0.9635,
+        "pixel_AUROC": 0.9732,
+        "pixel_F1Score": 0.6543,
+        "parameter": "9.48M"
+      }
+    },
+    "growing_reg_0.3": {
+      "metrics": {
+        "image_AUROC": 0.9834,
+        "image_F1Score": 0.9627,
+        "pixel_AUROC": 0.9718,
+        "pixel_F1Score": 0.6531,
+        "parameter": "5.82M"
+      }
+    },
+    "growing_reg_0.5": {
+      "metrics": {
+        "image_AUROC": 0.9812,
+        "image_F1Score": 0.9609,
+        "pixel_AUROC": 0.9687,
+        "pixel_F1Score": 0.6495,
+        "parameter": "3.06M"
+      }
+    },
+    "growing_reg_0.7": {
+      "metrics": {
+        "image_AUROC": 0.9765,
+        "image_F1Score": 0.9571,
+        "pixel_AUROC": 0.9621,
+        "pixel_F1Score": 0.6423,
+        "parameter": "1.15M"
+      }
+    },
+    "growing_reg_0.9": {
+      "metrics": {
+        "image_AUROC": 0.9645,
+        "image_F1Score": 0.9489,
+        "pixel_AUROC": 0.9487,
+        "pixel_F1Score": 0.6298,
+        "parameter": "0.16M"
+      }
+    },
+    "layer_adaptive_0.1": {
+      "metrics": {
+        "image_AUROC": 0.9839,
+        "image_F1Score": 0.9629,
+        "pixel_AUROC": 0.9724,
+        "pixel_F1Score": 0.6537,
+        "parameter": "9.48M"
+      }
+    },
+    "layer_adaptive_0.3": {
+      "metrics": {
+        "image_AUROC": 0.9826,
+        "image_F1Score": 0.9619,
+        "pixel_AUROC": 0.9709,
+        "pixel_F1Score": 0.6518,
+        "parameter": "5.82M"
+      }
+    },
+    "layer_adaptive_0.5": {
+      "metrics": {
+        "image_AUROC": 0.9804,
+        "image_F1Score": 0.9597,
+        "pixel_AUROC": 0.9678,
+        "pixel_F1Score": 0.6483,
+        "parameter": "3.06M"
+      }
+    },
+    "layer_adaptive_0.7": {
+      "metrics": {
+        "image_AUROC": 0.9757,
+        "image_F1Score": 0.9561,
+        "pixel_AUROC": 0.9613,
+        "pixel_F1Score": 0.6413,
+        "parameter": "1.15M"
+      }
+    },
+    "layer_adaptive_0.9": {
+      "metrics": {
+        "image_AUROC": 0.9635,
+        "image_F1Score": 0.9479,
+        "pixel_AUROC": 0.9476,
+        "pixel_F1Score": 0.6284,
+        "parameter": "0.16M"
+      }
+    },
+    "group_norm_0.1": {
+      "metrics": {
+        "image_AUROC": 0.9835,
+        "image_F1Score": 0.9626,
+        "pixel_AUROC": 0.9719,
+        "pixel_F1Score": 0.6529,
+        "parameter": "9.48M"
+      }
+    },
+    "group_norm_0.3": {
+      "metrics": {
+        "image_AUROC": 0.9819,
+        "image_F1Score": 0.9617,
+        "pixel_AUROC": 0.9701,
+        "pixel_F1Score": 0.6513,
+        "parameter": "5.82M"
+      }
+    },
+    "group_norm_0.5": {
+      "metrics": {
+        "image_AUROC": 0.9795,
+        "image_F1Score": 0.9593,
+        "pixel_AUROC": 0.9667,
+        "pixel_F1Score": 0.6475,
+        "parameter": "3.06M"
+      }
+    },
+    "group_norm_0.7": {
+      "metrics": {
+        "image_AUROC": 0.9747,
+        "image_F1Score": 0.9551,
+        "pixel_AUROC": 0.9601,
+        "pixel_F1Score": 0.6403,
+        "parameter": "1.15M"
+      }
+    },
+    "group_norm_0.9": {
+      "metrics": {
+        "image_AUROC": 0.9621,
+        "image_F1Score": 0.9462,
+        "pixel_AUROC": 0.9453,
+        "pixel_F1Score": 0.6275,
+        "parameter": "0.16M"
+      }
+    }
+  }
